@@ -1,1 +1,1 @@
-test close issues.hh 
+test close issues.hh close hh
